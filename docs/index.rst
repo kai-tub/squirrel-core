@@ -9,7 +9,6 @@ Welcome to Squirrel´s documentation!
    getting_started/installation
    getting_started/introduction
 
-
 .. toctree::
    :maxdepth: 1
    :caption: Basic Usage:
